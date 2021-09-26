@@ -1,0 +1,152 @@
+html{
+    background-color: rgb(248, 240, 240);
+}
+
+footer{
+    margin-top: 100px;
+}
+.page-title {
+    font-size: 50px;
+    color: rgb(156, 2, 110);
+    width: 100%;
+    background-color: white(241, 205, 252);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    }
+.sub-header {
+    font-size: 25px;
+    color: black;
+    width: 100%;
+    background-color: white(241, 205, 252);
+    margin-top: 0px;
+    margin-left: 100px;
+    text-align: left;
+    }
+.row {
+    display: flex;
+    }
+      
+.column {
+    flex: 50%;
+    }
+
+.profile_pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  margin-top: 10px;
+  }
+
+a {
+    text-decoration: none;
+    /*color: rgb(226, 43, 128);*/
+    color: rgb(156, 2, 110);
+    text-decoration: unset;
+    text-align: right;
+    display: inline;
+    margin-top: 20px;
+    background-position: 100%;
+}
+
+.content-list {
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.contentsH {
+    font-size: 30px; 
+    display: inline;
+    margin-right: 100px;
+}
+.contents {
+    font-size: 25px;
+    color: rgb(156, 2, 110);
+    width: 100%;
+    display: inline;
+    margin-top: 20px;
+    margin-right: 20px; 
+    text-align: right;
+    background-position: 100%;
+}
+
+.title {
+    font-size: 25px;
+    color: rgb(156, 2, 110);
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.text {
+    font-size: 18px;
+    color: black;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 100px;
+    text-align: left;
+}
+ul{
+    background-color: rgb(248, 240, 240);
+    width: 99%;
+}
+.contents1 {
+    font-size: 25px;
+    color: rgb(156, 2, 110);
+    width: 100%;
+    display: inline;
+    margin-right: 20px; 
+}
+.table{
+    display: table;
+    margin: 0 auto;
+}
+.icon {
+    display: inline;
+}
+
+.linkedin-icon {
+    margin-top: 10px;
+    width: 30px;
+    height: auto;
+    
+}
+
+.twitter-icon {
+    margin-top: 10px;
+    width: 30px;
+    height: auto;
+}
+.home-icon{
+    width: 30px;
+    height: auto;
+}
+
+.background-pic{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: fill;
+}
+
+.caption {
+    text-align: right;
+}
+
+.contents11{
+    font-size: 25px;
+    color: rgb(255, 0, 179);
+    width: 100%;
+    display: inline;
+    margin-top: 20px;
+    margin-right: 20px; 
+    text-align: right;
+    background-position: 100%;
+}
